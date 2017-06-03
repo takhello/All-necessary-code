@@ -1,0 +1,239 @@
+1.tony-th.lau@aia.com  (禁用)
+2.martha.davey@aia.com  123456789  可任意使用
+3.Biao-B.Tong@aia.com 123456789 自己的
+4.kumiko.mori@aia.com  12345678
+
+5. IE代理设置 http://pekbjpwscm01.aia.biz/services/proxy.pac
+
+6. 116483717316979058131
+   2/16/2000
+   National ID = 116483717316979058131 
+   你可以做了 
+
+7.权限 New members of the department, requesting permissions,thank you
+
+8.sally  2017-5-10 \Application_Services\DCS\Website_Solution\Marketing Solution\CMS\Adobe-AEM\upload dls(Sally share)
+
+9.2017-05-10有关AEM配置的文件目录  \\cibwkdpcon177\Gui_SISPad_Transfer\AEM\AEM Local
+
+10.2017-5-10-那你运行AEM_6.2\crx-quickstart\bin 下的start.bat
+等它成功启动后,你访问:http://localhost:4502/ 
+密码  是admin/admin
+在启动之前先检查你们电脑的jdk版本 
+那到localhost:4502/crx/packmgr/index.jsp 这个路径下看看
+在AIA底下有没有package  group下的aia吗，里面有9个zip文件
+哦哦,那就不用安装package了,你们的AEM local环境就好了
+11.
+Welcome on board. In the next week there will be some project trainings, please find the training schedule and tutorials at below.
+欢迎光临。下个星期将会有一些项目培训，请在下面找到培训计划和教程。
+Author tutorial : https://www.yammer.com/aia.com/#/files/90058670 
+Developer tutorial: https://www.yammer.com/aia.com/#/files/90051027 
+Admin tutorial: https://www.yammer.com/aia.com/#/files/90053934 
+  
+
+11.有关5/16号 的 培训准备; 
+   CMS Infrastructure 内容管理系统基础设施 --->>>>Q:\Application_Services\DCS\Website_Solution\Marketing Solution\CMS\Adobe-AEM\1_Planning
+   Content Authoring内容创作 --->>>>>>Q:\Application_Services\DCS\Website_Solution\Marketing Solution\CMS\Adobe-AEM\8_Training
+   page creation/update practice页面更新/更新实践 --->>>>>>>https://www.yammer.com/mypage-cms/#/groups/company/files 
+
+
+12.Gui, Elena-JY: 
+你们现在可以到  https://www.yammer.com/aia.com/#/groups/6823759/files 上看看文档,里面有很多文档
+可以看看这个 DTM Cloud Configuration 文档,之后会分任务给你们
+
+13.香港代理 http://aiaproxyhk.aia.biz:8080/accelerated_pac_base.pac
+
+   原始代理 http://pekbjpwscm01.aia.biz/services/proxy.pac 
+	    
+
+14.* install node >=0.12.4
+* install ruby >=1.9.2
+* install bundler (``sudo gem install bundler``)
+* install npm >=2.11.0
+* install bower >=1.4.1 (``npm install -g bower``)
+* install gulp (``npm install -g gulp``)
+
+
+15.系统环境变量?备份 C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\RSA SecurID Token Common;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;C:\Program Files\Git\cmd
+
+16.gulp常用命令
+             全局安装 gulp : npm install gulp -g
+   在项目根目录安装项目环境: npm install gulp --save-dev
+
+16.1.Grunt常用命令
+1.	               安装: npm install -g grunt-cli
+     生成 package.json 文件: npm init
+		   合并文件：grunt-contrib-concat
+	           语法检查：grunt-contrib-jshint
+	          Scss 编译：grunt-contrib-sass
+	           压缩文件：grunt-contrib-uglify
+	       监听文件变动：grunt-contrib-watch
+	     建立本地服务器：grunt-contrib-connect
+2.安装 Grunt 的插件，不需要一个个的安装，可以
+npm install --save-dev grunt-contrib-concat grunt-contrib-jshint grunt-contrib-sass grunt-contrib-uglify grunt-contrib-watch grunt-contrib-connect
+
+3.配置 Gruntfile.js 的语法
+
+/*翻墙软件  蓝灯landern
+
+
+17.npm 环境变量
+	1.新建文件两个
+	2.npm config set prefix "C:\Program Files\nodejs\node_global"
+	3.npm config set cache "C:\Program Files\nodejs\node_cache"
+	4.新建”NODE_PATH”，输入”D:\nodejs\node_global\node_modules”。（ps：这一步相当关键。）
+	5.用户变量”PATH”修改为“d:\nodejs\node_global\”）
+
+NPM 代理配置
+清除 npm config set proxy null
+有帐户:
+用这个 npm config set proxy http://bSnpbzz:May12345@aiaproxyhk.aia.biz:8080 
+npm config set proxy https-proxy://bSnpbzz:May12345@aiaproxyhk.aia.biz:8080
+无帐户:
+npm config set proxy http://aiaproxyhk.aia.biz:8080
+npm config set https-proxy http://aiaproxyhk.aia.biz:8080
+
+
+18.Developer文件很重要
+
+19.localhost:4502 的文件地址 http://localhost:4502/crx/de/index.jsp#/etc/designs
+
+20.
+http://reference.aia.com/en/index.html   
+home page, our product, product category, product detail/ help-support/ press release
+
+21.
+There are some materials about our project named admin console. Please study them in advance. Thanks.
+Admin template :  AdminLTE
+https://github.com/almasaeed2010/AdminLTE
+Angular 1 Code style
+https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md
+
+1.H5的新特性
+2.CSS3 优先级  和模型 脑图
+3.js声明提前  巩固 H5/css3/  JS/脑图 
+4.代码规范
+
+22.Hi all,
+Please find webapp under this path: 
+Q:\Application_Services\DCS\Website_Solution\Sally_share 
+This is our source codes about admin console.
+Regards,
+Sally
+
+
+23.svn路径
+https://cangzpwsvn01.aia.biz/svn/Web_Solution/MyPage/trunk/3_Construction/mypage/mypage-admin/src 
+
+24.关于Admin-- http://cangzdwcis01:8080/mypage-admin/admin/profile  这个路径对吗  你点下看看 0.0
+  mypage@aia.com? qwert12345 
+24.admin- 在eclipse启动后的端口 http://localhost:8099/mypage-admin/#/
+
+24maven的配置细节
+trunk/3_construction/mypage/mypage-admin
+
+trunk/3_construction/mypage/mypage-pom
+
+window --show views --other -svn   ---svn repositores
+https://cangzpwsvn01.aia.biz/svn/Web_Solution/MyPage 
+
+25.个人整理的文件位置 Q:\Application_Services\DCS\Website_Solution\Learning_Group\001_20170525
+错误Q:\Application_SeBrvices\DCS\Website_Solution\Learning_Group\001_20170525
+
+25.angularjs 1 代码规范 http://blog.csdn.net/df4gg55/article/details/41046379;
+
+26.H5<template>这个元素在 HTML5 中加入	通过 JavaScript 在运行时实例化内容的容器。
+章节
+Element	Description
+<body>	
+
+<section> 定义文档中的一个章节。
+
+<nav> 定义只包含导航链接的章节。
+
+<article> 定义可以独立于内容其余部分的完整独立内容块。
+
+<aside>定义和页面内容关联度较低的内容——如果被删除，剩下的内容仍然很合理。
+
+<header> 定义页面或章节的头部。它经常包含 logo、页面标题和导航性的目录。
+
+<footer> 定义页面或章节的尾部。它经常包含版权信息、法律信息链接和反馈建议用的地址。
+
+<address>	定义包含联系信息的一个章节。
+
+<main>这个元素在 H TML5 中加入	定义文档中主要或重要的内容。
+
+27.所有angularjs 下载地址 https://code.angularjs.org/ 
+28.maver 请缓存后启动 clean package jetty:run
+29.admin- 在eclipse启动后的端口 http://localhost:8099/mypage-admin/#/
+   mypage@aia.com? qwert12345 
+30.wamp的启动位置 http://localhost/admin/#/
+31.把这个加到刚才那个双引号里面 http://cangzdwcis01:8088/mypage-admin/
+32.ES6 http://blog.csdn.net/sinat_17775997/article/details/54861843 
+33.JQ    文档  http://jquery.cuishifeng.cn/  
+   有关API文档  http://www.aseoe.com/api-download/download.html
+
+34.\\10.72.3.33\MyPage_SG\Development
+
+35.  -grunt- 
+-1.	               安装: npm install -g grunt-cli
+     生成 package.json 文件: npm init
+		   合并文件：grunt-contrib-concat
+	           语法检查：grunt-contrib-jshint
+	          Scss 编译：grunt-contrib-sass
+	           压缩文件：grunt-contrib-uglify
+	       监听文件变动：grunt-contrib-watch
+	     建立本地服务器：grunt-contrib-connect
+	
+	这些是Gruntfile.js中引用的，分别下载。ok
+	npm install grunt-contrib-copy
+	npm install grunt-contrib-concat
+	npm install grunt-contrib-uglify
+	npm install grunt-css
+
+-2.安装 Grunt 的插件，不需要一个个的安装，可以
+npm install --save-dev grunt-contrib-concat grunt-contrib-jshint grunt-contrib-sass grunt-contrib-uglify grunt-contrib-watch grunt-contrib-connect
+
+-3.配置 Gruntfile.js 的语法
+
+-1.	grunt.initConfig({ }); //任务配置 
+        grunt.loadNpmTasks(); //载入任务 
+        grunt.registerTask();//注册任务 
+
+-2.     grunt-contrib-jshint（js语法检查） 
+	grunt-contrib-uglify（采用UglifyJS压缩js）
+	grunt-contrib-concat（js合并）
+	grunt-contrib-cssmin（Css压缩合并）
+	grunt-htmlhint（html语法验查）
+
+-3.	项目执行npm install根据package.json安装依赖
+
+2017-6-2 有关 karma
+	1.单元测试karma的安装: npm install karma --save-dev
+	2.angularjs单元测试jasmine语法
+	3.maver 请缓存后启动 clean package jetty:run
+	4.AEM 文件位置localhost:4502 的文件地址								http://localhost:4502/crx/de/index.jsp#/etc/designs
+	5.启动 访问:http://localhost:4502/ 
+2017-6-3 有关 办公
+	公司办公主页 http://cigp3r8cweb01/aiait/
+	Maypage 登陆页面 http://referenceuat2.aia.com/en/my-aia/my-aia-pp.html
+	npm 代理 npm config set proxy http://bSnpbzz:May12345@aiaproxyhk.aia.biz:8080
+	git 代理设置 $ git config --global http.proxy http://web-proxy.oa.com:8080
+
+		     $ git config --global http.proxy http://aiaproxyhk.aia.biz:8080
+	有关bower
+	代理配置
+	项目根目录下应该有个.bowerrc文件，如果没有，你自己建一个，里        边的数据是json格式的：
+        {
+           "directory": "bower_components",
+           "interactive": false,
+           "proxy": "http://proxy.com.cn:8080",
+           "https-proxy": "http://proxy.com.cn:8080"
+        }
+	1.npm init 初始化
+	2.强制启动 bower install --verbose --force
+        3.bower install packagename --save .
+          如果先初始化了bower.json文件:bower init。 后续有包要加入，            想自动写入到bower.json里。可以在安装包时添加save参数: bower           install packagename --save .
+	4.安装一个jquery : bower install jquery --save
+	5.查找jquery都有哪些个版本 : bower info jquery
+	6.包的卸载 命令 ：bower uninstall jquery
